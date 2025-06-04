@@ -6,3 +6,10 @@
 header.masthead {
    background-image: url(../assets/img/gedung-idb-baru-IRENG.png);
 }
+.text-primary {
+    color: rgb(40, 40, 151) !important;
+}
+.portfolio-item img {
+    height: 300px;
+    object-fit: cover;
+}
